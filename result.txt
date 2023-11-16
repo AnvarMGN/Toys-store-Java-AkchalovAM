@@ -1,0 +1,10 @@
+Id: 12, Name: Kangaroo, Frq: 1,00n; 
+Id: 10, Name: Barbie, Frq: 0,90n; 
+Id: 8, Name: Batman, Frq: 0,80n; 
+Id: 11, Name: Doll 2, Frq: 0,70n; 
+Id: 7, Name: Bear, Frq: 0,65n; 
+Id: 3, Name: Doll, Frq: 0,60n; 
+Id: 5, Name: Car, Frq: 0,50n; 
+Id: 9, Name: Candies, Frq: 0,40n; 
+Id: 4, Name: Ball, Frq: 0,30n; 
+Id: 1, Name: Lego, Frq: 0,20n; 
